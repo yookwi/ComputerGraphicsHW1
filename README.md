@@ -1,6 +1,6 @@
 # Computer Graphics HW1
 
-![스크린샷 2025-03-24 225959](https://github.com/user-attachments/assets/ef3d3abc-0d0b-4590-a199-49bc22669697)
+![스크린샷 2025-03-24 225959](https://github.com/user-attachments/assets/561a5a19-1a24-4b0e-a65a-cdc04824c32e)
 
 The program runs in Visual Studio without any special configuration by selecing Start Without Debugging.
 
